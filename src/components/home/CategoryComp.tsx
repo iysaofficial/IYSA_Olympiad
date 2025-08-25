@@ -19,7 +19,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>IYMO</h2>
-                        <p>"Explore the elegance of Mathematics, a field that demands precision and logical reasoning to solve abstract and practical problems."</p>
+                        <p>Explore the elegance of Mathematics, a field that demands precision and logical reasoning to solve abstract and practical problems.</p>
                         <Link href="https://iymo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -33,7 +33,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>NYMO</h2>
-                        <p>"Explore the elegance of Mathematics, a field that demands precision and logical reasoning to solve abstract and practical problems."</p>
+                        <p>Explore the elegance of Mathematics, a field that demands precision and logical reasoning to solve abstract and practical problems.</p>
                         <Link href="https://nymo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -47,7 +47,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>IYBO</h2>
-                        <p>"Immerse yourself in Biology to understand the complex mechanisms of life, from cellular processes to the biodiversity of ecosystems."</p>
+                        <p>Immerse yourself in Biology to understand the complex mechanisms of life, from cellular processes to the biodiversity of ecosystems.</p>
                         <Link href="https://iybo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -61,7 +61,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>NYBO</h2>
-                        <p>"Immerse yourself in Biology to understand the complex mechanisms of life, from cellular processes to the biodiversity of ecosystems."</p>
+                        <p>Immerse yourself in Biology to understand the complex mechanisms of life, from cellular processes to the biodiversity of ecosystems.</p>
                         <Link href="https://nybo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -75,7 +75,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>IYCO</h2>
-                        <p>"Engage with Chemistry, where the study of matter and its interactions opens doors to innovative solutions for the future."</p>
+                        <p>Engage with Chemistry, where the study of matter and its interactions opens doors to innovative solutions for the future.</p>
                         <Link href="https://iyco-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -89,7 +89,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>NYCO</h2>
-                        <p>"Engage with Chemistry, where the study of matter and its interactions opens doors to innovative solutions for the future."</p>
+                        <p>Engage with Chemistry, where the study of matter and its interactions opens doors to innovative solutions for the future.</p>
                         <Link href="https://nyco-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -103,7 +103,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>IYPO</h2>
-                        <p>"Competition held to test students abilities and knowledge in the field of Physics"</p>
+                        <p>Competition held to test students abilities and knowledge in the field of Physics</p>
                         <Link href="https://iypo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -117,7 +117,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>NYPO</h2>
-                        <p>"Competition held to test students abilities and knowledge in the field of Physics"</p>
+                        <p>Competition held to test students abilities and knowledge in the field of Physics</p>
                         <Link href="https://nypo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -131,7 +131,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>IYEO</h2>
-                        <p>"Competition held to test students abilities and knowledge in the field of Economy"</p>
+                        <p>Competition held to test students abilities and knowledge in the field of Economy</p>
                         <Link href="https://iyeo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -145,7 +145,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>NYEO</h2>
-                        <p>"Competition held to test students abilities and knowledge in the field of Economy"</p>
+                        <p>Competition held to test students abilities and knowledge in the field of Economy</p>
                         <Link href="https://nyeo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -159,7 +159,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>IYGO</h2>
-                        <p>"Competition held to test students abilities and knowledge in the field of Geography"</p>
+                        <p>Competition held to test students abilities and knowledge in the field of Geography</p>
                         <Link href="https://iygo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -173,7 +173,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>NYGO</h2>
-                        <p>"Competition held to test students abilities and knowledge in the field of Geography"</p>
+                        <p>Competition held to test students abilities and knowledge in the field of Geography</p>
                         <Link href="https://nygo-iysa.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -187,7 +187,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>OS2MN</h2>
-                        <p>"Science olympiad for education levels MI, MTs MA and there are 6 categories biology, geography, economics, chemistry, mathematics, physics"</p>
+                        <p>Science olympiad for education levels MI, MTs MA and there are 6 categories biology, geography, economics, chemistry, mathematics, physics</p>
                         <Link href="https://os2mn.or.id" target="_blank">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">
@@ -202,7 +202,7 @@ const CategoryComp = () => {
                 <div className="category-card" style={{ "--clr": "#02adee" } as React.CSSProperties}>
                     <div className="category-content">
                         <h2>WSO</h2>
-                        <p>"Olympiad for all education levels and there are 4 categories biology, chemistry, mathematics, physics"</p>
+                        <p>Olympiad for all education levels and there are 4 categories biology, chemistry, mathematics, physics</p>
                         <Link href="https://wso.or.id">Go to Website</Link>
                     </div>
                     <div className="category-imgBx">

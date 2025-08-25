@@ -3,8 +3,8 @@
 import './globals.css';
 import HeroComp from '@/components/home/HeroComp'
 import AboutMainComp from '@/components/home/AboutMainComp'
-import CriteriaComp from '@/components/home/CriteriaComp'
-import AssesmentCriteriaComp from '@/components/home/AssessmentCriteriaComp'
+// import CriteriaComp from '@/components/home/CriteriaComp'
+// import AssesmentCriteriaComp from '@/components/home/AssessmentCriteriaComp'
 import CategoryComp from '@/components/home/CategoryComp'
 import AfterEventComp from '@/components/home/AfterEventComp'   
 import LogoComp from '@/components/home/LogoComp'
