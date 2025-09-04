@@ -6,7 +6,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 2rem;
-    background: #f2f2f2;
+    background: #fff;
     /* background: linear-gradient(90deg, #003d7e, deepskyblue); */
     overflow: hidden;
     display: flex;
@@ -124,7 +124,7 @@ textarea.input{
     transform: translateY(0);
 }
 
-.btn{
+.btn-submit{
     padding: 0.6rem 1.3rem;
     background-color: #fff;
     border: 2px solid #fafafa;
@@ -138,7 +138,7 @@ textarea.input{
     margin: 0;
 }
 
-.btn:hover{
+.btn-submit:hover{
     background-color: transparent;
     color: #fff;
 }

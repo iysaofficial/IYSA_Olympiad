@@ -691,7 +691,7 @@ span{
     min-height: 100vh;
     /* background: #; */
     padding: 5rem 9% 5rem;
-    background: #f2f2f2;
+    background: #fff;
 }
 
 .after-event-row{
@@ -862,7 +862,7 @@ span{
     width: 100%;
     display: grid;
     place-items: center;
-    background: #f2f2f2;
+    background: #fff;
 }
 
 .brand-logo-section .brand-logo-container h1{
