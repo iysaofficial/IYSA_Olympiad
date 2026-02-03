@@ -54,7 +54,7 @@ const FooterComp = () => {
                             <i className="fas fa-phone"></i>
                             <div className="cta-text">
                                 <h4>Phone</h4>
-                                <Link href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</Link>
+                                <Link href='https://wa.me/+6288213248890' target='_blank'>+6288213248890</Link>
                             </div>
                         </div>
                     </div>
